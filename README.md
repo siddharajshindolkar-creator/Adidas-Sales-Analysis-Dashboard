@@ -111,7 +111,7 @@ The dashboard enables "data-driven decision-making" for sales, marketing, and bu
 
 ***8. Dashboard Preview:***
  
-  ![Adidas Sales Dashboard](dashboard-preview.png)
+  ![Adidas Sales Dashboard](https://github.com/siddharajshindolkar-creator/Adidas-Sales-Analysis-Dashboard/blob/main/Adidas%20Sales%20Analysis%20Dashboard.PNG)
 
 
 
